@@ -1,33 +1,33 @@
 # Data Structures in Python:
 <ul>
   <li><a href="#Built-in DS">Built-in DS</a>
-      <ul>
-          <li><a href="#List">List</a></li>
-          <li><a href="#Tuple">Tuple</a></li>
-          <li><a href="#Set">Set</a>
-            <ul>
-              <li><a href="#frozenset">frozenset</a></li>
-              <li><a href="#collections.Counter">collections.Counter</a></li>
-            </ul>    
-          </li>
-          <li><a href="#Dictionary">Dictionary</a>
-            <ul>
-              <li><a href="#dict() Constructor">dict() Constructor</a></li>
-              <li><a href="#collections.OrderedDict">collections.OrderedDict</a></li>
-              <li><a href="#collections.defaultdict">collections.defaultdict</a></li>
-              <li><a href="#collections.ChainMap">collections.ChainMap</a></li>
-            </ul>    
-          </li>
-      </ul>
+    <ul>
+      <li><a href="#List">List</a></li>
+      <li><a href="#Tuple">Tuple</a></li>
+      <li><a href="#Set">Set</a>
+        <ul>
+          <li><a href="#frozenset">frozenset</a></li>
+          <li><a href="#collections.Counter">collections.Counter</a></li>
+        </ul>
+      </li>
+      <li><a href="#Dictionary">Dictionary</a>
+        <ul>
+          <li><a href="#dict-Constructor">dict() Constructor</a></li>
+          <li><a href="#collections.OrderedDict">collections.OrderedDict</a></li>
+          <li><a href="#collections.defaultdict">collections.defaultdict</a></li>
+          <li><a href="#collections.ChainMap">collections.ChainMap</a></li>
+        </ul>
+      </li>
+    </ul>
   </li>
   <li><a href="#User-defined DS">User-defined DS</a>
     <ul>
-      <li><a href="#Arrays">Arrays</a>      
+      <li><a href="#Arrays">Arrays</a>
         <ul>
-         <li><a href="#array.array">array.array</a></li>
-         <li><a href="#str">str</a></li>
-         <li><a href="#byte">byte</a></li>
-         <li><a href="#bytearray">bytearray</a></li>
+          <li><a href="#array.array">array.array</a></li>
+          <li><a href="#str">str</a></li>
+          <li><a href="#byte">byte</a></li>
+          <li><a href="#bytearray">bytearray</a></li>
         </ul>
       </li>
       <li><a href="#Stack">Stack</a></li>
@@ -35,16 +35,17 @@
         <ul>
           <li><a href="#queue.Queue">queue.Queue</a></li>
           <li><a href="#collections.deque">collections.deque</a></li>
-          <li><a href="#Priority queue">Priority queue</a>
+          <li><a href="#Priority-queue">Priority queue</a>
             <ul>
               <li><a href="#heapq">heapq</a></li>
             </ul>
           </li>
         </ul>
-      </li>  
+      </li>
     </ul>
   </li>
 </ul>
+
 ## Bulit-in DS:
 <li>List</li>
 <li>Tuple</li>
