@@ -1,6 +1,6 @@
 # Data Structures in Python:
 <ul>
-  <li><a href="#Built-in DS">Built-in DS</a>
+  <li><a href="#Built-in-DS">Built-in DS</a>
     <ul>
       <li><a href="#List">List</a></li>
       <li><a href="#Tuple">Tuple</a></li>
@@ -20,7 +20,7 @@
       </li>
     </ul>
   </li>
-  <li><a href="#User-defined DS">User-defined DS</a>
+  <li><a href="#User-defined-DS">User-defined DS</a>
     <ul>
       <li><a href="#Arrays">Arrays</a>
         <ul>
@@ -48,15 +48,15 @@
       </li>
     </ul>
   </li>
-  <li><a href="#Records,Structs, and Data Transfer Objects">Records,Structs, and Data Transfer Objects</a>
+  <li><a href="#Records-Structs-and-Data-Transfer-Objects">Records, Structs, and Data Transfer Objects</a>
     <ul>
-      <li><a href="#dict: Simple Data Objects">dict: Simple Data Objects</a></li>
-      <li><a href="#tuple: Immutable Groups of Objects">tuple: Immutable Groups of Objects</a></li>
-      <li><a href="#Write a Custom Class: More Work, More Control">Write a Custom Class: More Work, More Control</a></li>
-      <li><a href="#collections.namedtuple: Convenient Data Objects">collections.namedtuple: Convenient Data Objects</a></li>
-      <li><a href="#typing.NamedTuple: Improved Namedtuples">typing.NamedTuple: Improved Namedtuples</a></li>
-      <li><a href="#struct.Struct: Serialized C Structs">struct.Struct: Serialized C Structs</a></li>
-      <li><a href="#types.SimpleNamespace: Fancy Attribute Access">types.SimpleNamespace: Fancy Attribute Access</a></li>
+      <li><a href="#dict-Simple-Data-Objects">dict: Simple Data Objects</a></li>
+      <li><a href="#tuple-Immutable-Groups-of-Objects">tuple: Immutable Groups of Objects</a></li>
+      <li><a href="#Write-a-Custom-Class-More-Work-More-Control">Write a Custom Class: More Work, More Control</a></li>
+      <li><a href="#collections.namedtuple-Convenient-Data-Objects">collections.namedtuple: Convenient Data Objects</a></li>
+      <li><a href="#typing.NamedTuple-Improved-Namedtuples">typing.NamedTuple: Improved Namedtuples</a></li>
+      <li><a href="#struct.Struct-Serialized-C-Structs">struct.Struct: Serialized C Structs</a></li>
+      <li><a href="#types.SimpleNamespace-Fancy-Attribute-Access">types.SimpleNamespace: Fancy Attribute Access</a></li>
     </ul>   
   </li>
 </ul>
